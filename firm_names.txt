@@ -1,0 +1,1 @@
+['Apple', 'Google', 'HTC', 'Huawei', 'InterDigital', 'Kodak', 'LG', 'Nokia', 'Oracle', 'Pantech', 'Samsung', 'Sony Ericsson', 'ZTE']
